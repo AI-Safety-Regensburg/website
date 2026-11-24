@@ -157,3 +157,5 @@ main p { margin: 0 0 14px; }
   .bridge { overflow: hidden; padding: 0; }
   .bridge svg { width: 200%; max-width: none; margin-left: -50%; }
 }
+
+#events article + article { margin-top: 2.5rem; }
